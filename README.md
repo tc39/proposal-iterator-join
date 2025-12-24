@@ -8,7 +8,7 @@ Authors: Kevin Gibbons
 
 Champions: Kevin Gibbons
 
-This proposal is at stage 2.7 of [the TC39 process](https://tc39.es/process-document/): it awaits Test262 tests. Interested parties can follow or contribute based on [this testing plan](https://github.com/tc39/test262/issues/4697).
+This proposal is at stage 2.7 of [the TC39 process](https://tc39.es/process-document/): it awaits Test262 tests. Tests [have been written](https://github.com/tc39/test262/pull/4768) and now need review, at which point the proposal will be ready for stage 3.
 
 ## Motivation
 
