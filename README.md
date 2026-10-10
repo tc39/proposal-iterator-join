@@ -8,7 +8,7 @@ Authors: Kevin Gibbons
 
 Champions: Kevin Gibbons
 
-This proposal is at stage 3 of [the TC39 process](https://tc39.es/process-document/): it has [a specification](https://tc39.es/proposal-iterator-join/) and [test262 tests](https://github.com/tc39/test262/pull/4768) and is ready for implementations.
+This proposal is currently at stage 4 of [the TC39 process](https://tc39.es/process-document/): it is complete and included in the standard. Any further changes will need to happen in a separate proposal through [the usual process](https://github.com/tc39/ecma262/blob/main/CONTRIBUTING.md#new-feature-proposals). This repo is archived.
 
 ## Motivation
 
